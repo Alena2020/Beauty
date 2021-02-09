@@ -2,6 +2,6 @@
 ### Выполнила проект: Алёна
 
 ## Технологии:
-####-HTML
-####-CSS Flexbox & Grid
+#### -HTML
+#### -CSS Flexbox & Grid
  
