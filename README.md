@@ -1,7 +1,7 @@
-# Beauty - yчебный проект
+# Beauty - project
 
 
-## Технологии:
+## Technologies:
 #### - HTML
 #### - CSS Flexbox & Grid
  
