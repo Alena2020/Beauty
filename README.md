@@ -1,4 +1,4 @@
-# Beauty - project
+# Beauty 
 
 
 ## Technologies:
